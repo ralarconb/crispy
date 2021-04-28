@@ -13,10 +13,6 @@ docker logs d9e39d338955
 - New Item/crispy-pipeline/Multibranch Pipeline/OK
 - Branch Sources/Add source/Git/Project Repository
   - https://github.com/ralarconb/crispy.git
-- FIXME: No credentials for public repo
-- Credentials/Add/crispy-pipeline
-  - Fill username, password, ID and click on Add
-  - Select the new Folder Credential
 - Behaviors/Add/Filter by name (with regular expression)
 ```sh
 ^dev|master|features|main.*$
