@@ -26,6 +26,7 @@ docker logs d9e39d338955
   - Scan Multibranch Pipeline Log
 # Config Maven Build Tool
 - Dashboard/Manage Jenkins/Global Tool Configuration
+  - JDK/Add JDK/fill the name/Check **Install Automatically**/Select the version/Set Oracle account info
   - Maven/Add Maven/fill the name/Check **Install Automatically**
   - Save
 # Setup Java Project
@@ -34,3 +35,4 @@ docker logs d9e39d338955
 git clone https://github.com/ralarconb/crispy.git
 ```
 - https://youtu.be/mszE-OCI2V4?t=451
+- https://www.jenkins.io/blog/2017/02/07/declarative-maven-project/
