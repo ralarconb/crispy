@@ -14,7 +14,7 @@ docker logs d9e39d338955
 - Branch Sources/Add source/Git/Project Repository
   - https://github.com/ralarconb/crispy.git
 - Credentials/Add/crispy-pipeline
-  - Fill username, password, ID and click at OK/Add
+  - Fill username, password, ID and click on Add
   - Select the new Folder Credential
 - Behaviors/Add/Filter by name (with regular expression)
 ```sh
@@ -22,6 +22,7 @@ docker logs d9e39d338955
 ```
 - Scan Multibranch Pipeline Triggers
   - Check **Periodically if not otherwise run**
+    - Interval: 1 day
 - Save
 - Dashboard/crispy-pipeline
   - Scan Multibranch Pipeline Now
