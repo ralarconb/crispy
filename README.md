@@ -24,6 +24,10 @@ docker logs d9e39d338955
 - Dashboard/crispy-pipeline
   - Scan Multibranch Pipeline Now
   - Scan Multibranch Pipeline Log
+# Config Maven Build Tool
+- Dashboard/Manage Jenkins/Global Tool Configuration
+  - Maven/Add Maven/fill the name/Check **Install Automatically**
+  - Save
 # Setup Java Project
 - Clone the repository
 ```sh
