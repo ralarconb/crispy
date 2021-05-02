@@ -42,5 +42,5 @@ docker logs d9e39d338955
 ```sh
 git clone https://github.com/ralarconb/crispy.git
 ```
-- https://youtu.be/mszE-OCI2V4?t=451
+- https://youtu.be/mszE-OCI2V4?t=802
 - https://www.jenkins.io/blog/2017/02/07/declarative-maven-project/
