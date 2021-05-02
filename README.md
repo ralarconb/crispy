@@ -29,6 +29,14 @@ docker logs d9e39d338955
   - JDK/Add JDK/fill the name/Check **Install Automatically**/Select the version/Set Oracle account info
   - Maven/Add Maven/fill the name/Check **Install Automatically**
   - Save
+# Setup Docker Plugins
+- Dashboard/Manage Jenkins/Manage Plugins/All Plugins/Look up for
+  - CloudBees Docker Build and Publish
+  - Docker Pipeline
+  - docker-build-step
+- Check each one
+- Install without restart
+- Finally, restart Jenkins
 # Setup Java Project
 - Clone the repository
 ```sh
