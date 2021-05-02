@@ -45,3 +45,4 @@ git clone https://github.com/ralarconb/crispy.git
 - https://youtu.be/mszE-OCI2V4?t=909
 - https://youtu.be/gdbA3vR2eDs?t=138
 - https://www.jenkins.io/doc/tutorials/build-a-multibranch-pipeline-project/
+- https://www.jenkins.io/doc/book/pipeline/docker/
