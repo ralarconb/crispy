@@ -1,8 +1,3 @@
-# Add Branches
-```sh
-git branch dev
-git branch features
-```
 # Jenkins Setup
 - Pull jenkins
 - Run jenkins
