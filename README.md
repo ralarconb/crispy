@@ -1,3 +1,8 @@
+# Add Branches
+```sh
+git branch dev
+git branch features
+```
 # Jenkins Setup
 - Pull jenkins
 - Run jenkins
@@ -15,7 +20,7 @@ docker logs d9e39d338955
   - https://github.com/ralarconb/crispy.git
 - Behaviors/Add/Filter by name (with regular expression)
 ```sh
-^dev|master|features|main.*$
+^dev|features|main.*$
 ```
 - Scan Multibranch Pipeline Triggers
   - Check **Periodically if not otherwise run**
