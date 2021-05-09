@@ -31,14 +31,19 @@ docker logs d9e39d338955
   - Maven/Add Maven/fill the name/Check **Install Automatically**
   - Save
 # Setup Docker Plugins
-- Optionally config Docker plugins: Dashboard/Manage Jenkins/Manage Plugins/All Plugins/Look up for
+- Dashboard/Manage Jenkins/Manage Plugins/All Plugins/Look up for
   - CloudBees Docker Build and Publish
   - Docker Pipeline
   - docker-build-step
 - Check each one
 - Install without restart
 - Finally, restart Jenkins
-# Build the Java Project
-- Go to: Dashboard/select the pipeline/click on the main branch/
-  - Click on Build Now
-  - Select the build number/click on the option "Console Output"
+# Setup Java Project
+- Clone the repository
+```sh
+git clone https://github.com/ralarconb/crispy.git
+```
+- https://youtu.be/mszE-OCI2V4?t=909
+- https://youtu.be/gdbA3vR2eDs?t=138
+- https://www.jenkins.io/doc/tutorials/build-a-multibranch-pipeline-project/
+- https://www.jenkins.io/doc/book/pipeline/docker/
