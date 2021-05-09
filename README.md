@@ -1,5 +1,5 @@
 # Jenkins Setup
-- This example shows how to build and Java application using a Jenkins pipeline
+- This example shows how to build a Java application using a Jenkins pipeline
 - Pull jenkins
 - Run jenkins
 - Get the password from the logs file
@@ -39,6 +39,6 @@ docker logs d9e39d338955
 - Install without restart
 - Finally, restart Jenkins
 # Build the Java Project
-- Go to: Dashboard/select the pipeline/click on the main branch/
-  - Click on Build Now
+- To build the project go to: Dashboard/select the pipeline/click on the main branch
+  - Click on the option to **Build Now**
   - Select the build number/click on the option "Console Output"
